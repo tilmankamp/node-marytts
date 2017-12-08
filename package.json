@@ -1,0 +1,30 @@
+{
+  "name": "node-marytts",
+  "version": "0.0.1",
+  "description": "Hosting a local MaryTTS service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tilmankamp/node-marytts.git"
+  },
+  "keywords": [
+    "MaryTTS",
+    "TTS",
+    "voice",
+    "say",
+    "java",
+    "local"
+  ],
+  "author": "Tilman Kamp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tilmankamp/node-marytts/issues"
+  },
+  "homepage": "https://github.com/tilmankamp/node-marytts#readme",
+  "dependencies": {
+    "node-jre": "^0.2.3"
+  }
+}
